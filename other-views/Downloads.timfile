@@ -8,12 +8,12 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #000000; /* Black background */
-            color: #007AFF; /* iOS Blue text */
+            color: #FFFFFF; /* White text */
             margin: 0;
             padding: 20px;
         }
         h1, h2, h3 {
-            color: #007AFF; /* iOS Blue headers */
+            color: #FFFFFF; /* White headers */
         }
         h2 {
             font-size: 1.5em;
@@ -24,7 +24,7 @@
             margin-top: 15px;
         }
         a {
-            color: #007AFF; /* iOS Blue for URLs */
+            color: #007AFF; /* iOS Blue for hyperlinks */
             text-decoration: none;
             word-wrap: break-word;
         }
