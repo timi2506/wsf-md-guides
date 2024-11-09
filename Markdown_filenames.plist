@@ -4,6 +4,12 @@
 <array>
 	<dict>
 		<key>file_title</key>
+		<string>Announcements and News</string>
+		<key>file_name</key>
+		<string>news.md</string>
+	</dict>
+	<dict>
+		<key>file_title</key>
 		<string>Introduction</string>
 		<key>file_name</key>
 		<string>welcome.md</string>
