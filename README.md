@@ -10,4 +10,4 @@ Just follow the instructions of the Free Google Dev AI API Key above but make su
 
 ## Buy a new Paid Google Developer API Key
 
-first: go to https://ai.google.dev/pricing and select one of the models, then select setup billing in Google AI Studio, follow the instructions then tap "Create API Key" and it note down or save that key as you cant show it again
+Go to https://ai.google.dev/pricing and select one of the models, then select setup billing in Google AI Studio, follow the instructions then tap "Create API Key" and it note down or save that key as you cant show it again
